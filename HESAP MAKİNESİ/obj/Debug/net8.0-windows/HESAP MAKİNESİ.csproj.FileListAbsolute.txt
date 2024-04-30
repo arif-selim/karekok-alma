@@ -1,0 +1,16 @@
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\net8.0-windows\HESAP MAKİNESİ.exe
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\net8.0-windows\HESAP MAKİNESİ.deps.json
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\net8.0-windows\HESAP MAKİNESİ.runtimeconfig.json
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\net8.0-windows\HESAP MAKİNESİ.dll
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\net8.0-windows\HESAP MAKİNESİ.pdb
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP_MAKİNESİ.Form1.resources
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.csproj.GenerateResource.cache
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.AssemblyInfoInputs.cache
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.AssemblyInfo.cs
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.csproj.CoreCompileInputs.cache
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.dll
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\refint\HESAP MAKİNESİ.dll
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.pdb
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\HESAP MAKİNESİ.genruntimeconfig.cache
+C:\Users\karaa\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\net8.0-windows\ref\HESAP MAKİNESİ.dll

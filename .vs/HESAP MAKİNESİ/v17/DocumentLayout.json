@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|c:\\users\\karaa\\source\\repos\\hesap mak\u0130nes\u0130\\hesap mak\u0130nes\u0130\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|solutionrelative:hesap mak\u0130nes\u0130\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|c:\\users\\karaa\\source\\repos\\hesap mak\u0130nes\u0130\\hesap mak\u0130nes\u0130\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|solutionrelative:hesap mak\u0130nes\u0130\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|c:\\users\\karaa\\source\\repos\\hesap mak\u0130nes\u0130\\hesap mak\u0130nes\u0130\\operatorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15468743-3C6E-4CB1-927A-7A73B4BCDF02}|HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130.csproj|solutionrelative:hesap mak\u0130nes\u0130\\operatorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "RelativeDocumentMoniker": "HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "ToolTip": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "RelativeToolTip": "HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:48:02.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "RelativeDocumentMoniker": "HESAP MAK\u0130NES\u0130\\Form1.cs",
+              "ToolTip": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Form1.cs [Design]",
+              "RelativeToolTip": "HESAP MAK\u0130NES\u0130\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:11:37.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operatorler.cs",
+              "DocumentMoniker": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Operatorler.cs",
+              "RelativeDocumentMoniker": "HESAP MAK\u0130NES\u0130\\Operatorler.cs",
+              "ToolTip": "C:\\Users\\karaa\\source\\repos\\HESAP MAK\u0130NES\u0130\\HESAP MAK\u0130NES\u0130\\Operatorler.cs",
+              "RelativeToolTip": "HESAP MAK\u0130NES\u0130\\Operatorler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:22:08.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
